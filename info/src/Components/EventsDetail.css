@@ -1,0 +1,33 @@
+.event-detail-container {
+    width: 80%;
+    margin: 2rem auto;
+    padding: 1rem;
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .event-detail-container h1,
+  .event-detail-container h2,
+  .event-detail-container h3 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .event-detail-container img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto 2rem;
+  }
+  
+  .event-detail-container p,
+  .event-detail-container ul {
+    text-align: left;
+    color: #666;
+  }
+  
+  .event-detail-container .back-button {
+    display: inline-block;
+    margin-bottom: 1rem;
+  }
+  

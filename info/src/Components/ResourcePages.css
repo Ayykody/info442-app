@@ -1,0 +1,86 @@
+.body {
+    margin-top: 110px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+button {
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 12px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10%;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button:hover {
+    background-color: #d3d3d3;
+    color: black;
+}
+
+.header {
+    margin-top: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.image {
+    height: auto;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.overview-title {
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 40px;
+}
+
+.overview {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    margin-right: 40px;
+    margin-bottom: 50px;
+}
+
+.part-two {
+    display: flex;
+}
+
+.tips-card {
+    flex: 1;
+    margin-left: 40px;
+    max-width: 40%;
+    height: 300px;
+}
+
+ul {
+    list-style-type: disc;
+    margin-bottom: 15px;
+}
+
+li {
+    margin: 10px;
+    margin-bottom: 15px;
+}
+
+.image-two {
+    max-width: 50%;
+    height: auto;
+    margin: auto;
+}
+
+iframe {
+    position: relative;
+    margin: auto;
+    padding-top: 15px;
+}
+
+
+
