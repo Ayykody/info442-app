@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/info442-app/static/css/main.cfe69c0b.css",
+    "main.js": "/info442-app/static/js/main.87185808.js",
+    "static/media/trash.jpg": "/info442-app/static/media/trash.f6c2f3ba5e36af1ceeaa.jpg",
+    "static/media/noise_pollution.png": "/info442-app/static/media/noise_pollution.327a6b0d9c6f28d79dd5.png",
+    "static/media/sunscreen.png": "/info442-app/static/media/sunscreen.e49f36927dbbd5fcc82b.png",
+    "static/media/overfishing.jpeg": "/info442-app/static/media/overfishing.db35df5421831e811690.jpeg",
+    "static/media/plane.jpeg": "/info442-app/static/media/plane.b64d9701b314bdd4d009.jpeg",
+    "static/media/beach_trash.jpeg": "/info442-app/static/media/beach_trash.9f270bcd53a6284d2c32.jpeg",
+    "static/media/overfish.jpeg": "/info442-app/static/media/overfish.d56b141c293089d70966.jpeg",
+    "static/media/sunscreen_beach.jpeg": "/info442-app/static/media/sunscreen_beach.de7b019dc31d3d003f4b.jpeg",
+    "static/media/coral.jpeg": "/info442-app/static/media/coral.29a1865e3d69903f01f8.jpeg",
+    "static/media/reefs.webp": "/info442-app/static/media/reefs.41baa96782bfb6086b98.webp",
+    "static/media/graph-overfishing.jpg": "/info442-app/static/media/graph-overfishing.f08b8057ff253252b43a.jpg",
+    "static/media/boat_noise.jpeg": "/info442-app/static/media/boat_noise.6d0cfacf2644037fea2b.jpeg",
+    "static/media/trash_chart.jpeg": "/info442-app/static/media/trash_chart.4b8b7176eadfcc853bd4.jpeg",
+    "static/media/wildlife.jpg": "/info442-app/static/media/wildlife.f9e38a4a621f241b20ad.jpg",
+    "static/media/clean.jpg": "/info442-app/static/media/clean.4f434f64f509a488062b.jpg",
+    "static/media/coral_reef_workshop.jpg": "/info442-app/static/media/coral_reef_workshop.905c586b01a37983ab27.jpg",
+    "static/media/fishing.jpg": "/info442-app/static/media/fishing.5b6601b1e5138e672d2f.jpg",
+    "index.html": "/info442-app/index.html",
+    "main.cfe69c0b.css.map": "/info442-app/static/css/main.cfe69c0b.css.map",
+    "main.87185808.js.map": "/info442-app/static/js/main.87185808.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfe69c0b.css",
+    "static/js/main.87185808.js"
+  ]
+}
