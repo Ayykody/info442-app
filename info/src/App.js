@@ -22,13 +22,14 @@ export default function App(props) {
   return (
     <div>
       <div>
-        <Router basename="/info442-app">
+        <Router>
           <NavBar />
             <Routes>
-              <Route path="/" element={<Homepage />} />
               <Route path="/Quiz" element={<Quiz />} />
               <Route path="/Resources" element={<Resources />} />
-              <Route path="/Events" element={<Events />} />              
+              <Route path="/Events" element={<Events />} />
+              <Route path="/Homepage" element={<Homepage />} />
+              <Route path="/" element={<Homepage />} />
               <Route path="/Resources/TouristTrash" element={<TouristTrash />} />
               <Route path="/Resources/Overfishing" element={<Overfishing />} />
               <Route path="/Resources/Coral" element={<Coral />} />
