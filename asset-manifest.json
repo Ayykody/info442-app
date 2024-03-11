@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/info442-app/static/css/main.cfe69c0b.css",
-    "main.js": "/info442-app/static/js/main.87185808.js",
+    "main.js": "/info442-app/static/js/main.815b489a.js",
     "static/media/trash.jpg": "/info442-app/static/media/trash.f6c2f3ba5e36af1ceeaa.jpg",
     "static/media/noise_pollution.png": "/info442-app/static/media/noise_pollution.327a6b0d9c6f28d79dd5.png",
     "static/media/sunscreen.png": "/info442-app/static/media/sunscreen.e49f36927dbbd5fcc82b.png",
@@ -21,10 +21,10 @@
     "static/media/fishing.jpg": "/info442-app/static/media/fishing.5b6601b1e5138e672d2f.jpg",
     "index.html": "/info442-app/index.html",
     "main.cfe69c0b.css.map": "/info442-app/static/css/main.cfe69c0b.css.map",
-    "main.87185808.js.map": "/info442-app/static/js/main.87185808.js.map"
+    "main.815b489a.js.map": "/info442-app/static/js/main.815b489a.js.map"
   },
   "entrypoints": [
     "static/css/main.cfe69c0b.css",
-    "static/js/main.87185808.js"
+    "static/js/main.815b489a.js"
   ]
 }
