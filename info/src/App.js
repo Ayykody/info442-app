@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavBar } from './Components/Navbar'
 import Resources from './Components/Resources'
-import { BrowserRouter as Router, Route, Routes, Navigate } from "react-router-dom"
+import { BrowserRouter as Router, Route, Routes} from "react-router-dom"
 import Quiz from './Components/Quiz'
 import Events from './Components/Events'
 import Homepage from './Components/Homepage'
@@ -29,7 +29,7 @@ export default function App(props) {
               <Route path="/Resources" element={<Resources />} />
               <Route path="/Events" element={<Events />} />
               <Route path="/Homepage" element={<Homepage />} />
-              <Route path="/" element={<Homepage />} />
+              <Route exact path="/" element={<Homepage />} />
               <Route path="/Resources/TouristTrash" element={<TouristTrash />} />
               <Route path="/Resources/Overfishing" element={<Overfishing />} />
               <Route path="/Resources/Coral" element={<Coral />} />
