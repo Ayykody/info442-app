@@ -22,7 +22,7 @@ export default function App(props) {
   return (
     <div>
       <div>
-        <Router>
+        <Router basename="/info442-app">
           <NavBar />
             <Routes>
               <Route path="/" element={<Homepage />} />
